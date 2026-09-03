@@ -1,0 +1,13 @@
+scikit-learn
+pandas
+numpy
+lxml
+html5lib
+beautifulsoup4
+matplotlib
+seaborn
+Flask
+streamlit
+imbalanced-learn
+gunicorn
+flask

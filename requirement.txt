@@ -10,3 +10,4 @@ Flask
 streamlit
 imbalanced-learn
 gunicorn
+flask
